@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "查数", "查数\查数.vcxproj", "{6775168D-9A77-4CB0-8BF4-A1ACA8A7C3FA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "自定义函数连接数组", "..\自定义函数连接数组\自定义函数连接数组\自定义函数连接数组.vcxproj", "{69B199A7-EFAC-4208-A4CD-BB64AFFE5B57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6775168D-9A77-4CB0-8BF4-A1ACA8A7C3FA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6775168D-9A77-4CB0-8BF4-A1ACA8A7C3FA}.Debug|Win32.Build.0 = Debug|Win32
+		{6775168D-9A77-4CB0-8BF4-A1ACA8A7C3FA}.Release|Win32.ActiveCfg = Release|Win32
+		{6775168D-9A77-4CB0-8BF4-A1ACA8A7C3FA}.Release|Win32.Build.0 = Release|Win32
+		{69B199A7-EFAC-4208-A4CD-BB64AFFE5B57}.Debug|Win32.ActiveCfg = Debug|Win32
+		{69B199A7-EFAC-4208-A4CD-BB64AFFE5B57}.Debug|Win32.Build.0 = Debug|Win32
+		{69B199A7-EFAC-4208-A4CD-BB64AFFE5B57}.Release|Win32.ActiveCfg = Release|Win32
+		{69B199A7-EFAC-4208-A4CD-BB64AFFE5B57}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
